@@ -1,4 +1,4 @@
-A simple console-based quiz application built with Python.
+This is A simple console-based quiz application built with Python.
 
      Features
 - Multiple choice questions
