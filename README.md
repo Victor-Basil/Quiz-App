@@ -4,10 +4,9 @@ This is a simple console-based quiz application built with Python. The app featu
 - Python 3.x installed
 
 ## How to Run
-1. Clone this repository: git clone https://github.com/Victor-Basil/quiz-app.git
-2. 
+1. Clone this repository: git clone https://github.com/Victor-Basil/quiz-app.git 
 
-    How to Use
+How to Use
 
 You will be asked questions one by one.
 
