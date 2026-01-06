@@ -1,10 +1,4 @@
-This is A simple console-based quiz application built with Python.
-
-     Features
-- Multiple choice questions
-- Score tracking
-- Simple text-based interface
-- Easy to add new questions
+This is A simple console-based quiz application built with Python. The app features Multiple choice questions, tracking scores with a simple text based interface. You  Can also add new questions if you want and it's really simple to do.
 
 ## Requirements
 - Python 3.x installed
